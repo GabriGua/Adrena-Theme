@@ -1,7 +1,7 @@
 ---
-title: moustak
+title: Home
 layout: default
 ---
 
 # Adrena-theme
-##This theme will be perfect for building a portfolio.
+## This theme will be perfect for building a portfolio.
