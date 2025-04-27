@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: adrena-theme
+description: "This theme will be perfect for building a portfolio or a personal blog."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
