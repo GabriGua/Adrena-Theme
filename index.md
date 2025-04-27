@@ -1,5 +1,6 @@
 ---
 title: moustak
+layout: default
 ---
 
 # Adrena-theme
